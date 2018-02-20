@@ -1,0 +1,5 @@
+# assumes cache files will end with .json
+*.json
+secrets.py
+__pycache__
+
